@@ -67,7 +67,7 @@ export default function About() {
             <div className="row button-section">
                 <div className="col-twelve">
                     <a href="#contact" title="Hire Me" className="button stroke smoothscroll">Hire Me</a>
-                    <a href="#!" title="Download CV" className="button button-primary">Download CV</a>
+                    <a href="https://drive.google.com/file/d/1I9qI9Jt7CE936j5TCPPz2xmrvE4rScMV/view?usp=sharing" title="Download Resume" className="button button-primary">Download Resume</a>
                 </div>
             </div>
         </section>

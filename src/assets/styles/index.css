@@ -2551,8 +2551,13 @@
 	 background: #000000;
  }
  
+
  .navbar {
 	background: #151515;
+	overflow: hidden;
+	position: fixed;
+	top: 0;
+	width: 100%;
  }
  .navbar ul li a {
 	 font-size: 16px;

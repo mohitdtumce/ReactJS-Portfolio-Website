@@ -49,23 +49,6 @@ export default function Resume() {
                             </div>
 
                         </div>
-
-                        <div className="timeline-block">
-
-                            <div className="timeline-ico">
-                                <i className="fa fa-briefcase"></i>
-                            </div>
-
-                            <div className="timeline-header">
-                                <h3>Data Structure & Algorithm</h3>
-                                <p>Dec ‘16 - Jan ‘17</p>
-                            </div>
-
-                            <div className="timeline-content">
-                                <h4>Coding Ninjas</h4>
-                                <p>Completed advanced course on Data Structure and Algorithms.</p>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -94,6 +77,22 @@ export default function Resume() {
                         </div>
                     </div>
 
+                    <div className="timeline-block">
+
+                            <div className="timeline-ico">
+                                <i className="fa fa-graduation-cap"></i>
+                            </div>
+
+                            <div className="timeline-header">
+                                <h3>Data Structure & Algorithm</h3>
+                                <p>Dec ‘16 - Jan ‘17</p>
+                            </div>
+
+                            <div className="timeline-content">
+                                <h4>Coding Ninjas</h4>
+                                <p>Completed advanced course on Data Structure and Algorithms.</p>
+                            </div>
+                        </div>
                 </div>
 
             </div>
