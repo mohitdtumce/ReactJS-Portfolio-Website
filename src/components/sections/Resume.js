@@ -144,8 +144,51 @@ export default function Resume() {
                         </div>
                     </div>
                 </div>
-
+                
             </div>
+
+            <div className="row resume-timeline">
+                <div className="col-twelve resume-header">
+                    <h2>Position of Responsibility</h2>
+                </div>
+                <div className="col-twelve">
+                    <div className="timeline-wrap">
+                        <div className="timeline-block">
+                            <div className="timeline-ico">
+                                <i className="fas fa-hands-helping"></i>
+                            </div>
+                            <div className="timeline-header">
+                                <h3>Member of Council</h3>
+                                <p>Apr ’17 – May ’18</p>
+                            </div>
+                            <div className="timeline-content">
+                                <h4>National Service Scheme, DTU</h4>
+                                <p>Managed administration of 250+ volunteers, execution of 10+ events/semester and recruited 100+ volunteers.</p>
+                            </div>
+
+                        </div>
+
+                        <div className="timeline-block">
+
+                            <div className="timeline-ico">
+                                <i className="fas fa-hands-helping"></i>
+                            </div>
+
+                            <div className="timeline-header">
+                                <h3>Event Coordinator </h3>
+                                <p>Oct ’17</p>
+                            </div>
+
+                            <div className="timeline-content">
+                                <h4>Abhilasha - Celebrating ambitions</h4>
+                                <p>Conducted a seminar for promoting legal awareness among women that oversaw participation of 500+ students.</p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
         </section>
     )
 }
