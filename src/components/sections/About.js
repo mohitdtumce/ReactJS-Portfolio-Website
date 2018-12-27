@@ -9,6 +9,10 @@ export default function About() {
                     <h1>Here is my quick introduction</h1>
                     <div className="intro-info">
                         <img src="images/profile-picture.jpg" alt="Mohit Sharma" />
+                    </div>
+                </div>
+                <div className="col-twelve">
+                    <div className="intro-info">
                         <p className="lead">I have done my B.Tech in Mathematics & Computing from Delhi Technological University (formerly known as Delhi College of Engineering) and I am currently a programmer employed at TATA Health, Bangalore.</p>
                         <p className="lead">I am ardent learner and problem solver. Software development, data science and several domain of mathematics intrigue me. You’ll often find me solving competitive questions from websites like Codeforces, Hackerrank or Hackerearth in my free time. Nothing gives me more satisfaction than a neatly and efficiently written code.</p>
 

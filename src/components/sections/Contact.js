@@ -7,7 +7,7 @@ export default function Contact() {
       <div className="row section-intro">
         <div className="col-twelve">
           <h5>Contact</h5>
-          <h1>I'd <span>&#128147;</span> To Hear From You.</h1>
+          <h1>I'd <span role="img" aria-label="Love">&#128147;</span> To Hear From You.</h1>
         </div>
       </div>
 
