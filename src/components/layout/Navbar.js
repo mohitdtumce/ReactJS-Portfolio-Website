@@ -8,7 +8,7 @@ const Navbar = () => {
                 <Link to="/" className="brand-logo">Burningdzire</Link>
                     <ul className="right hide-on-med-and-down">
                         <li className="current"><a href="#intro" title="">Home</a></li>
-                        <li><a href="#about" title="">About</a></li>
+                        <li><a href="#about" title="" >About</a></li>
                         <li><a href="#resume" title="">Resume</a></li>
                         <li><a href="#portfolio" title="">Projects</a></li>
                         <li><a href="#contact" title="">Contact</a></li>
