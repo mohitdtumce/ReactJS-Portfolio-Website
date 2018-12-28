@@ -16,7 +16,7 @@ export default function Contact() {
         <div className="col-four tab-full">
 
           <div className="icon">
-            <i className="icon-pin"></i>
+            <i className="fas fa-map-marker-alt"></i>
           </div>
 
           <h5>Where to find me</h5>
@@ -30,7 +30,7 @@ export default function Contact() {
         <div className="col-four tab-full collapse">
 
           <div className="icon">
-            <i className="icon-mail"></i>
+            <i className="fas fa-envelope"></i>
           </div>
 
           <h5>Email Me At</h5>
@@ -42,7 +42,7 @@ export default function Contact() {
         <div className="col-four tab-full">
 
           <div className="icon">
-            <i className="icon-phone"></i>
+            <i className="fas fa-phone"></i>
           </div>
 
           <h5>Call Me At</h5>
