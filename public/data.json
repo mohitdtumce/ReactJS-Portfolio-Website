@@ -1,0 +1,124 @@
+{
+    "experience": [
+        {
+            "id": 1,
+            "position": "Software Developer",
+            "duration": "Jun '18 - Present",
+            "company": "TATA Health",
+            "work": [
+                "Integrated Mixpanel in TATA Health android app to derive insights of customer behaviour by monitoring actions like clicks and searches.",
+                "Envisaged efficient integration flow and communicated the suggestions to product team for implementing consumer analytics."
+            ]
+        },
+        {
+            "id": 2,
+            "position": "Software Intern",
+            "duration": "Mar '18 - May '18",
+            "company": "Acadview",
+            "work": [
+                "Worked on various Python & Machine Learning projects.",
+                "Created Exploratory Data Analysis (EDA) reports in Python."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "id": 1,
+            "degree": "Bachelor in Technology",
+            "duration": "Aug '14 - May '18",
+            "institution": "Delhi Technological University",
+            "work": [
+                "Completed B.Tech in Mathematics and Computing.",
+                "Consistently ranked among top 15 Students in a class of 99 in Applied Mathematics & Computing Department."
+            ]
+        },
+        {
+            "id": 2,
+            "degree": "Data Structure & Algorithm",
+            "duration": "Dec '16 - Jan '17",
+            "institution": "Coding Ninjas",
+            "work": [
+                "Completed advanced course on Data Structure and Algorithms."
+            ]
+        }
+    ],
+    "responsibility": [
+        {
+            "id": 1,
+            "position": "Member of Council",
+            "duration": "Apr '17 – May '18",
+            "organization": "National Service Scheme, DTU",
+            "work": [
+                "Managed administration of 250+ volunteers, execution of 10+ events/semester and recruited 100+ volunteers."
+            ]
+        },
+        {
+            "id": 2,
+            "position": "Event Coordinator",
+            "duration": "Oct '17",
+            "organization": "Abhilasha - Celebrating ambitions",
+            "work": [
+                "Conducted a seminar for promoting legal awareness among women that oversaw participation of 500+ students."
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "id": 1,
+            "category": "Competitive Coding",
+            "events": [
+                "Bug Trail, SITE - DTU 2018, Rank 1.",
+                "BITS, IEEE Troika 2017, Rank 1.",
+                "Ranked 723 in ACM ICPC 2014 Amritapuri region."
+            ]
+        },
+        {
+            "id": 2,
+            "category": "Social Work",
+            "events": [
+                "Winner of International Youth Achievers Award for excellent work in Social Sector."
+            ]
+        },
+        {
+            "id": 2,
+            "category": "Academics",
+            "events": [
+                "Consistently ranked among top 15 students in a class of 99 in Mathematics & Computing Dept.",
+                "Conferred with Indira Award by Honourable Chief minister for exemplary performance in class 10th."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "id": 1,
+            "title": "Predicting price of cryptocurrency",
+            "work": [
+                "Executed Long Short Term Memory (LSTM) and Gated Recurrent Units (GRU) to predict price of cryptocurrency.",
+                " Determined closing price of cryptocurrency for 30 days with mean absolute error percentage 7.37%."
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Credit Risk Modelling using Extreme Gradient Boosting",
+            "work": [
+                "Implemented Extreme Gradient Boosting in Python to predict probability of default of customer with 87.13% accuracy.",
+                " Envisaged potential improvement in risk management & superior oversight of banking organizations."
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Dino - A Virtual Assistant for Windows",
+            "work": [
+                "Worked in a team of two and created a C# based fully functional animated virtual assistant which can interact with user through its self-triggered actions."
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Intrusion Detection System (IDS)",
+            "work": [
+                "Implemented Artificial Neural Network (ANN) based IDS model in MATLAB to detect and classify malicious attacks based on access level.",
+                "Employed feedforward and back propagation algorithms along with various other optimization techniques to minimize overall computational overhead, and achieved and accuracy of over 89%."
+            ]
+        }
+    ]
+}

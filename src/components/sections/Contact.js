@@ -47,7 +47,7 @@ export default function Contact() {
 
           <h5>Call Me At</h5>
 
-          <p>+91 0123456789</p>
+          <p>+91-9213830992</p>
 
         </div>
 

@@ -4,7 +4,7 @@ import Footer from "./layout/Footer";
 import Intro from "./sections/Intro";
 import About from "./sections/About"; 
 import Resume from "./sections/Resume";
-import Projects from "./sections/Projects";
+import ProjectList from "./sections/ProjectList";
 import Contact from "./sections/Contact";
 
 
@@ -13,7 +13,7 @@ export {
     Intro,
     About,
     Resume,
-    Projects,
+    ProjectList,
     Contact,
     Footer
 }
