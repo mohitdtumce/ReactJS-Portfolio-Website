@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "express": "^4.16.4",
+    "express-sslify": "^1.2.0",
     "fitvids": "^2.0.0",
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
@@ -15,7 +17,8 @@
     "redux-logger": "^3.0.6",
     "redux-promise-middleware": "^5.1.1",
     "redux-thunk": "^2.3.0",
-    "serve": "^10.1.1"
+    "serve": "^10.1.1",
+    "ssl-express-www": "^3.0.3"
   },
   "scripts": {
     "dev": "react-scripts start",
