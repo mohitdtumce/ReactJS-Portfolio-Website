@@ -4,7 +4,7 @@ const Projects = ({project}) => {
     return (
         <div className="bgrid folio-item">
             <div className="item-wrap">
-                <img src={"images/portfolio/project-0"+ project.id +".jpg"} alt="Liberty" />
+                <img src={"images/portfolio/project-0"+ project.id +".webp"} alt="Liberty" />
                 <div className="overlay">
                     <br />
                     <div className="folio-item-table">

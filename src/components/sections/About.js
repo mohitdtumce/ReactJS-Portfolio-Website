@@ -8,7 +8,7 @@ export default function About() {
                     <h5>About Me</h5>
                     <h1>Here is my quick introduction</h1>
                     <div className="intro-info">
-                        <img src="images/profile-picture.jpg" alt="Mohit Sharma" />
+                        <img src="images/profile-picture.webp" alt="Mohit Sharma" />
                     </div>
                 </div>
                 <div className="col-twelve">

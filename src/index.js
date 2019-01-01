@@ -13,11 +13,6 @@ import { Provider } from "react-redux";
 
 
 import store from "./store";
-store.subscribe(() => {
-    console.log("Store updated", store.getState());
-});
-
-
 
 ReactDOM.render(
     <Provider store={store}>
