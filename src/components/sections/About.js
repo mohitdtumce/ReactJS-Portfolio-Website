@@ -52,15 +52,15 @@ export default function About() {
                         </li>
                         <li>
                             <strong>Tools/Technologies:</strong>
-                            <span>Packaging: Debian, VCS: Git, MessageBroker: Kafka, Datastore: MySQL, MongoDB, HBase, Redis </span>
+                            <span>Packaging: Debian, VCS: Git, MessageBroker: Kafka</span>
                         </li>
                         <li>
                             <strong>System:</strong>
                             <span>Unix</span>
                         </li>
                         <li>
-                            <strong>Also possess understanding of:</strong>
-                            <span>OS, DBMS and Networking</span>
+                            <strong>Datastore:</strong>
+                            <span>MySQL, MongoDB, HBase, Redis</span>
                         </li>
                     </ul>
                 </div>
