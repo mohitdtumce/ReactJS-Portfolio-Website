@@ -2,8 +2,17 @@
     "experience": [
         {
             "id": 1,
+            "position": "Software Development Engineer",
+            "duration": "Feb '19 - Present",
+            "company": "Flipkart",
+            "work": [
+                "Part of Fulfillment & Service Group (FSG) which is responsible for delivering a consistent, sustainable and comprehensive fulfillment experience while constantly innovating on new services for customers."
+            ]
+        },
+        {
+            "id": 2,
             "position": "Software Developer",
-            "duration": "Jun '18 - Present",
+            "duration": "Jun '18 - Feb '19",
             "company": "TATA Health",
             "work": [
                 "Integrated Mixpanel in TATA Health android app to derive insights of customer behaviour by monitoring actions like clicks and searches.",

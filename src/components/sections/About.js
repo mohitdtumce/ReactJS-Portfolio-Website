@@ -13,7 +13,7 @@ export default function About() {
                 </div>
                 <div className="col-twelve">
                     <div className="intro-info">
-                        <p className="lead">I have done my B.Tech in Mathematics & Computing from Delhi Technological University (formerly known as Delhi College of Engineering) and I am currently a programmer employed at TATA Health, Bangalore.</p>
+                        <p className="lead">I am currently a Software Development Engineer @Flipkart, Bangalore. I have done my B.Tech in Mathematics & Computing from Delhi Technological University (formerly known as Delhi College of Engineering)</p>
                         <p className="lead">I am ardent learner and problem solver. Software development, data science and several domain of mathematics intrigue me. You’ll often find me solving competitive questions from websites like Codeforces, Hackerrank or Hackerearth in my free time. Nothing gives me more satisfaction than a neatly and efficiently written code.</p>
 
                     </div>
@@ -46,24 +46,11 @@ export default function About() {
                 <div className="col-six tab-full">
 
                     <h3>Skills</h3>
-                    <ul className="skill-bars">
-                        <li>
-                            <div className="progress percent90"><span>90%</span></div>
-                            <strong>C/C++</strong>
-                        </li>
-                        <li>
-                            <div className="progress percent80"><span>80%</span></div>
-                            <strong>Java</strong>
-                        </li>
-                        <li>
-                            <div className="progress percent80"><span>80%</span></div>
-                            <strong>Python</strong>
-                        </li>
-                        <li>
-                            <div className="progress percent65"><span>65%</span></div>
-                            <strong>HTML/CSS/JS(ReactJS)</strong>
-                        </li>
-                    </ul>
+                    <p>
+                        Proficient in C++. Also acquianted with Java, Python and Ruby.</br>
+                        Tools/Technologies: System: Unix, Packaging: Debian, VCS: Git, MessageBroker: Kafka, Datastore: MySQL, MongoDB, HBase, Redis </br> 
+                        Possess good understanding of OS and DBMS.
+                    </p>
                 </div>
 
             </div>
