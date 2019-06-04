@@ -44,15 +44,26 @@ export default function About() {
                 </div>
 
                 <div className="col-six tab-full">
-
                     <h3>Skills</h3>
-                    <p>
-                        Proficient in C++. Also acquianted with Java, Python and Ruby.</br>
-                        Tools/Technologies: System: Unix, Packaging: Debian, VCS: Git, MessageBroker: Kafka, Datastore: MySQL, MongoDB, HBase, Redis </br> 
-                        Possess good understanding of OS and DBMS.
-                    </p>
+                    <ul className="info-list">
+                        <li>
+                            <strong>Programming Languages:</strong>
+                            <span>C++, Java, Ruby, Python, React JS</span>
+                        </li>
+                        <li>
+                            <strong>Tools/Technologies:</strong>
+                            <span>Packaging: Debian, VCS: Git, MessageBroker: Kafka, Datastore: MySQL, MongoDB, HBase, Redis </span>
+                        </li>
+                        <li>
+                            <strong>System:</strong>
+                            <span>Unix</span>
+                        </li>
+                        <li>
+                            <strong>Also possess understanding of:</strong>
+                            <span>OS, DBMS and Networking</span>
+                        </li>
+                    </ul>
                 </div>
-
             </div>
 
             <div className="row button-section">
