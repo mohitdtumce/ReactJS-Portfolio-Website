@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.22.1",
     "express-sslify": "^1.2.0",
     "fitvids": "^2.1.1",
     "font-awesome": "^4.7.0",
